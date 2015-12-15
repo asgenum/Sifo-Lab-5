@@ -1,0 +1,5 @@
+control [0] - RAM
+control [1] - read
+control [2] - write
+control [3] - address_valid
+control [4] - block
